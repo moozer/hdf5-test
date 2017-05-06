@@ -1,0 +1,47 @@
+2016-09-07 07:02:44 Unit Serial          = <redacted> none                
+2016-09-07 07:02:44 NO DATA for 1f 82 = 8001 NO UNITS
+2016-09-07 07:02:44 NO DATA for 20 82 = 9067 NO UNITS
+2015-02-13 16:27:00 NO DATA for 21 82 = 601 NO UNITS
+2015-02-13 16:27:00 NO DATA for 21 82 = 636 NO UNITS
+2016-09-07 10:01:09 NO DATA for 48 21 = 35 NO UNITS
+2016-09-07 10:01:13 Total Power          = 1843 Watts
+2016-09-07 10:01:09 Max Phase 1          = 8000 Watts
+2016-09-07 10:01:09 Max Phase 2          = 8000 Watts
+2016-09-07 10:01:09 Max Pahse 3          = 8000 Watts
+2016-09-07 10:01:09 Unknown              = 0 Unknown
+2016-09-07 10:01:09 Unknown              = 0 Unknown
+2016-09-07 10:01:09 NO DATA for 80 41 = 0 NO UNITS
+2016-09-07 10:01:13 Output Phase 1       = 611 Watts
+2016-09-07 10:01:13 Output Phase 2       = 616 Watts
+2016-09-07 10:01:13 Output Phase 3       = 616 Watts
+2016-09-07 10:01:13 Line Voltage Phase 1Volts = 230 Volts
+2016-09-07 10:01:13 Line Voltage Phase 2Volts = 229 Volts
+2016-09-07 10:01:13 Line Voltage Phase 3Volts = 230 Volts
+2016-09-07 10:01:13 Line Current Phase 1Amps = 3 Amps
+2016-09-07 10:01:13 Line Current Phase 2Amps = 3 Amps
+2016-09-07 10:01:13 Line Current Phase 3Amps = 3 Amps
+
+
+6/7/2016 10:05:00  total=34613.117 Kwh current=0 Watts togo=465 i=11 crc=215927136
+6/7/2016 10:10:00  total=34613.406 Kwh current=3504 Watts togo=465 i=23 crc=215927136
+6/7/2016 10:15:00  total=34613.703 Kwh current=3552 Watts togo=465 i=35 crc=215927136
+6/7/2016 10:20:00  total=34613.953 Kwh current=2976 Watts togo=465 i=47 crc=215927136
+6/7/2016 10:25:00  total=34614.152 Kwh current=2400 Watts togo=465 i=59 crc=215927136
+6/7/2016 10:30:00  total=34614.324 Kwh current=2064 Watts togo=465 i=71 crc=215927136
+6/7/2016 10:35:00  total=34614.508 Kwh current=2208 Watts togo=465 i=83 crc=215927136
+6/7/2016 10:40:00  total=34614.762 Kwh current=3024 Watts togo=465 i=95 crc=215927136
+6/7/2016 10:45:00  total=34615.070 Kwh current=3744 Watts togo=465 i=107 crc=215927136
+6/7/2016 10:50:00  total=34615.438 Kwh current=4368 Watts togo=465 i=119 crc=215927136
+6/7/2016 10:55:00  total=34615.758 Kwh current=3840 Watts togo=465 i=131 crc=215927136
+6/7/2016 11:00:00  total=34615.996 Kwh current=2880 Watts togo=465 i=143 crc=215927136
+6/7/2016 11:05:00  total=34616.312 Kwh current=3792 Watts togo=465 i=155 crc=215927136
+6/7/2016 11:10:00  total=34616.586 Kwh current=3264 Watts togo=465 i=167 crc=215927136
+...
+18000+ lines omitted
+...
+7/9/2016 09:35:00  total=36557.078 Kwh current=864 Watts togo=0 i=47 crc=215927136
+7/9/2016 09:40:00  total=36557.168 Kwh current=1056 Watts togo=0 i=59 crc=215927136
+7/9/2016 09:45:00  total=36557.277 Kwh current=1296 Watts togo=0 i=71 crc=215927136
+7/9/2016 09:50:00  total=36557.352 Kwh current=912 Watts togo=0 i=83 crc=215927136
+7/9/2016 09:55:00  total=36557.449 Kwh current=1152 Watts togo=0 i=95 crc=215927136
+7/9/2016 10:00:00  total=36557.578 Kwh current=1584 Watts togo=0 i=107 crc=215927136
